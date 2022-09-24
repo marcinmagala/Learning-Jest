@@ -1,0 +1,23 @@
+{
+  "name": "learning-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcinmagala/Learning-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcinmagala/Learning-Jest/issues"
+  },
+  "homepage": "https://github.com/marcinmagala/Learning-Jest#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
