@@ -1,4 +1,5 @@
 const multi = require('./multi');
+// import { multi } from './multi'; not working because file isn't type module
 
 describe('testing multi', () => {
   it('multi 2 and 4', () => {
@@ -7,4 +8,6 @@ describe('testing multi', () => {
   it('multi 5 and 10', () => {
     expect(multi(5, 10)).toBe(5);
   });
+
+  test.todo('multi 5 x');
 });
