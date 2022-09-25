@@ -6,7 +6,7 @@ describe('testing multi', () => {
     expect(multi(2, 4)).toBe(8);
   });
   it('multi 5 and 10', () => {
-    expect(multi(5, 10)).toBe(5);
+    expect(multi(5, 10)).toBe(50);
   });
 
   test.todo('multi 5 x');

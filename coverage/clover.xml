@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1664060346811" clover="3.2.0">
-  <project timestamp="1664060346811" name="All files">
+<coverage generated="1664065922121" clover="3.2.0">
+  <project timestamp="1664065922122" name="All files">
     <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2" elements="8" coveredelements="6" complexity="0" loc="5" ncloc="5" packages="1" files="2" classes="2"/>
     <file name="multi.js" path="C:\Users\marci\Desktop\learning JEST\Learning-Jest\multi.js">
       <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
